@@ -1,0 +1,14 @@
+header {
+  box-sizing: border-box;
+
+  position: fixed;
+  display: flex;
+  flex-grow: 4;
+  width: 100%;
+  height: fit-content;
+  left: 0px;
+  top: 0px;
+
+  background: #4b69fd;
+  border: 2px solid #000000;
+}
